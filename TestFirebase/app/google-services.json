@@ -1,0 +1,48 @@
+ {
+  "project_info": {
+    "project_number": "549492319815",
+    "firebase_url": "https://basadatefumiko-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "basadatefumiko",
+    "storage_bucket": "basadatefumiko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549492319815:android:d75648446e5444f1d37362",
+        "android_client_info": {
+          "package_name": "com.test.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549492319815-dldmfo1sd2p2uog2slppccd4t2f09f07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.firebase",
+            "certificate_hash": "9c45469bdd5cd7a6605a13e2bbb1bfdb2a5fb78a"
+          }
+        },
+        {
+          "client_id": "549492319815-an4m52qgsot0a665m3l9mcvkec4d2kc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCMvgTx1uOIV2QYiWfR4rfOHJ81JBHYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549492319815-an4m52qgsot0a665m3l9mcvkec4d2kc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

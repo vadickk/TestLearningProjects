@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMyServerKtor</string>
+    <string name="register_tv">Для входа в свой аккаунт нажмите сюда</string>
+    <string name="login_tv">Для регистрации аккаунта нажмите сюда</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register</string>
+</resources>
